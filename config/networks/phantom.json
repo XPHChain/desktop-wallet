@@ -1,0 +1,64 @@
+{
+  "id": "phantom.mainnet",
+  "name": "Phantom Mainnet",
+  "title": "Phantom Mainnet",
+  "server": "https://api.phantomchain.org",
+  "description": "The Phantom Mainnet should be chosen in most cases.",
+  "imagePath": "networks/phantom.png",
+  "apiVersion": 2,
+  "slip44": "111",
+  "market": {
+    "enabled": true,
+    "ticker": "Phantom"
+  },
+  "feeStatistics": [
+    {
+      "type": 0,
+      "fees": {
+        "avgFee": 10000000,
+        "maxFee": 10000000,
+        "minFee": 10000000
+      }
+    },
+    {
+      "type": 1,
+      "fees": {
+        "avgFee": 500000000,
+        "maxFee": 500000000,
+        "minFee": 500000000
+      }
+    },
+    {
+      "type": 2,
+      "fees": {
+        "avgFee": 2500000000,
+        "maxFee": 2500000000,
+        "minFee": 2500000000
+      }
+    },
+    {
+      "type": 3,
+      "fees": {
+        "avgFee": 100000000,
+        "maxFee": 100000000,
+        "minFee": 100000000
+      }
+    }
+  ],
+  "constants": {
+    "activeDelegates": 51,
+    "epoch": "2017-03-21T13:00:00.000Z"
+  },
+  "vendorField": {
+    "maxLength": 255
+  },
+  "nethash": "a11124c7a0a2bc3f593041eb6dbf80ae0e0cb60450279fcd4e35fe17df721ebb",
+  "explorer": "https://explorer.phantomchain.org",
+  "knownWalletsUrl": "https://raw.githubusercontent.com/phantomchain/common/master/mainnet/known-wallets.json",
+  "token": "Phantom",
+  "subunit": "arktoshi",
+  "symbol": "ⓟ",
+  "fractionDigits": 8,
+  "version": 55,
+  "wif": 168
+}

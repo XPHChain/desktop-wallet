@@ -1,0 +1,11 @@
+[{
+  "ip": "80.78.25.75",
+  "port": 4003,
+  "isHttps": false,
+  "version": "2"
+}, {
+  "ip": "80.78.25.40",
+  "port": 4003,
+  "isHttps": false,
+  "version": "2"
+}]

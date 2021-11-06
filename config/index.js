@@ -3,16 +3,18 @@ const os = require('os')
 const path = require('path')
 
 exports.APP = {
-  website: 'https://ark.io',
+  website: 'https://phantomchain.org',
   transactionExpiryMinutes: 45
 }
 
 exports.NETWORKS = [
+  require('./networks/phantom.json'),
   require('./networks/mainnet.json'),
   require('./networks/devnet.json')
 ]
 
 exports.PEERS = {
+  'phantom.mainnet': require('./peers/phantom.json'),
   'ark.mainnet': require('./peers/mainnet.json'),
   'ark.devnet': require('./peers/devnet.json')
 }

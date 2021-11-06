@@ -1,16 +1,16 @@
-# ARK Desktop Wallet
+# Phantom Desktop Wallet
 
-![Ark Desktop Wallet](./banner.png)
+![Phantom Desktop Wallet](./banner.png)
 
-[![Build Status](https://badgen.now.sh/github/status/ArkEcosystem/desktop-wallet)](https://github.com/ArkEcosystem/desktop-wallet/actions?query=branch%3Adevelop)
-[![Latest Version](https://badgen.now.sh/github/release/ArkEcosystem/desktop-wallet)](https://github.com/ArkEcosystem/desktop-wallet/releases)
+[![Build Status](https://badgen.now.sh/github/status/XPHChain/desktop-wallet)](https://github.com/XPHChain/desktop-wallet/actions?query=branch%3Adevelop)
+[![Latest Version](https://badgen.now.sh/github/release/XPHChain/desktop-wallet)](https://github.com/XPHChain/desktop-wallet/releases)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 > Lead Maintainer: [Lúcio Rubens](https://github.com/luciorubeens)
 
 ## Download
 
-[Latest Release](https://github.com/ArkEcosystem/ark-desktop/releases/latest)
+[Latest Release](https://github.com/XPHChain/ark-desktop/releases/latest)
 
 ## Installing via Package Managers
 
@@ -128,4 +128,4 @@ This project exists thanks to all the people who [contribute](../../contributors
 
 ## License
 
-[MIT](LICENSE) © [ARK Ecosystem](https://ark.io)
+[MIT](LICENSE) © [Phantom Ecosystem](https://ark.io)
